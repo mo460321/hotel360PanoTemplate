@@ -1,0 +1,12 @@
+.googleMapDesign{
+    
+    height: 200%; 
+    frameborder :0;
+    scrolling :no;
+    marginheight:0; 
+    marginwidth:0;
+}
+
+html, body, iframe { margin:0; padding:0; height:100%; }
+iframe {  display:block; width:100%; border:none; }
+

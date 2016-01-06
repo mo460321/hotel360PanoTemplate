@@ -1,0 +1,35 @@
+create a new folder and cd into it
+
+
+
+
+terminal: npm install express-generator -g  (-g means global)  安裝啟動器
+
+
+
+
+create a new template app: express --ejs<directory name>
+
+terminal: express --ejs 安裝模板
+
+
+
+
+terminal: npm install 自動安裝餘下的模組  系統會自動填充需要的
+
+
+
+
+routes 換成api.js和authenticate.js   
+
+
+
+
+在terminal輸入 npm start會跑出bin/www代表伺服器運作中
+
+
+npm install passport --save
+
+npm install passport-local --save
+
+npm install bcrypt-nodejs --save

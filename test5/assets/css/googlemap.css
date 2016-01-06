@@ -1,0 +1,30 @@
+.googleMapDesign{
+    
+    height: 500px; 
+    frameborder :0;
+    scrolling :no;
+    marginheight:0; 
+    marginwidth:0;
+}
+
+html, body, iframe { margin:0; padding:0; height:100%; }
+iframe {  display:block; width:100%; border:none; }
+
+.googlemap-content{
+    margin:200px ;
+    border-radius:10px;
+    padding:10px 10px;
+    
+    
+    color:#ffffff;
+    position:absolute;
+    background:rgba(235,166,0,0.7);
+    text-align:center;
+}
+.googlemap-content h3,h5,p{
+    font-family:Microsoft JhengHei;
+    
+}
+.googlemap-content h3{
+    font-weight:bold;
+}
